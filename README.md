@@ -15,6 +15,6 @@
 **- Images**
 |Project  | Images |
 |--|--|
-| Sierpiński's Triangle | ![dla](https://github.com/isaacchunn/Unity-Visualisations/blob/main/Math%20Simulations/Images/dla.gif)|
-| Hamiltonian Path Finder |  |
-| Diffusion-limited aggregation |  |
+| Sierpiński's Triangle | ![sierpinski](https://github.com/isaacchunn/Unity-Visualisations/blob/main/Math%20Simulations/Images/sier.gif)|
+| Hamiltonian Path Finder | ![path](https://github.com/isaacchunn/Unity-Visualisations/blob/main/Math%20Simulations/Images/path.gif) |
+| Diffusion-limited aggregation |![dla](https://github.com/isaacchunn/Unity-Visualisations/blob/main/Math%20Simulations/Images/dla.gif)  |
